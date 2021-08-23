@@ -24,7 +24,4 @@ function repeatedString(s, n){
 
     return pack;
 }
-let str = "aba";
-let n = 10;
-console.log(repeatedString(str, n));
 
